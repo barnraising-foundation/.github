@@ -1,4 +1,8 @@
-# Barnraising
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barnraising-foundation/.github/main/profile/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barnraising-foundation/.github/main/profile/assets/banner-light.png">
+  <img src="https://raw.githubusercontent.com/barnraising-foundation/.github/main/profile/assets/banner-light.png" alt="Barnraising. Open tools for local democracy, local groups and trusted reference sites." width="100%">
+</picture>
 
 Barnraising builds open tools that help people follow their local government and find the groups working in their town. The work runs through three programs.
 
